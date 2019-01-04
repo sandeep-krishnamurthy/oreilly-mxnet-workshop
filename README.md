@@ -4,6 +4,12 @@
 
 * **Workshop link:** https://www.safaribooksonline.com/live-training/courses/applied-deep-learning-for-coders-with-apache-mxnet/0636920232841/
 
+# Lab Exercises
+
+1. [Lab 1 - Basics of NDArray (Tensors) - Fundamental Datastructure in Deep Learning](https://github.com/sandeep-krishnamurthy/oreilly-mxnet-workshop/tree/master/lab1-ndarray-basics)
+2. [Lab 2 - Fashion MNIST - Train your first Neural Network in Gluon - Multi Layer Perceptron(MLP)](https://github.com/sandeep-krishnamurthy/oreilly-mxnet-workshop/tree/master/lab2-mlp-fashion-mnist)
+3. [Lab 3 - Facial Emotion Recognition in Gluon - Intuition behind Convolutional Neural Networks(CNN)](https://github.com/sandeep-krishnamurthy/oreilly-mxnet-workshop/tree/master/lab3-cnn-facial-emotion-recognition)
+4. [Lab 4 - Text to Emoji Prediction in Gluon - Intuition behind Recurrent Neural Networks(RNN)](https://github.com/sandeep-krishnamurthy/oreilly-mxnet-workshop/tree/master/lab4-rnn-text-to-emoji)
 
 # Prerequisites / Installation
 
@@ -72,13 +78,6 @@ $ source activate mxnet_dev
 1. On AWS, you can use pre-configured Deep Learning AMIs, which comes with all frameworks and libraries pre-installed in Conda environments. You just need to launch an EC2 instance with Deep Learning AMI and then get started with coding! See [here for Instructions](https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/)
 
 2. On Google Cloud, you can use pre-configured Deep Learning images. Similar to AWS Deep Learning AMI, all the deep learning frameworks and required library dependencies are pre-installed and you can just get started with coding! See [here for Instructions](https://cloud.google.com/deep-learning-vm/)
-
-# Lab Exercises
-
-1. [Lab 1 - Basics of NDArray (Tensors) - Fundamental Datastructure in Deep Learning](https://github.com/sandeep-krishnamurthy/oreilly-mxnet-workshop/tree/master/lab1-ndarray-basics)
-2. [Lab 2 - Fashion MNIST - Train your first Neural Network in Gluon - Multi Layer Perceptron(MLP)](https://github.com/sandeep-krishnamurthy/oreilly-mxnet-workshop/tree/master/lab2-mlp-fashion-mnist)
-3. [Lab 3 - Facial Emotion Recognition in Gluon - Intuition behind Convolutional Neural Networks(CNN)](https://github.com/sandeep-krishnamurthy/oreilly-mxnet-workshop/tree/master/lab3-cnn-facial-emotion-recognition)
-4. [Lab 4 - Text to Emoji Prediction in Gluon - Intuition behind Recurrent Neural Networks(RNN)](https://github.com/sandeep-krishnamurthy/oreilly-mxnet-workshop/tree/master/lab4-rnn-text-to-emoji)
 
 # Resources
 1. Apache MXNet (Incubating) - http://mxnet.incubator.apache.org/
