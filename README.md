@@ -46,7 +46,7 @@ $ source activate mxnet_dev
 
 # Dependencies for RNN Lab exercise
 (mxnet_dev) $ pip install emoji
-(mxnet_dev) $ pip install gluon-nlp
+(mxnet_dev) $ pip install gluonnlp
 (mxnet_dev) $ pip install spacy -U --quiet
 (mxnet_dev) $ python -m spacy download en
 
