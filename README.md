@@ -2,7 +2,9 @@
 
 * **Workshop Name:** Applied Deep Learning for coders with Apache MXNet - Hands-on deep learning in Computer Vision and Natural Language Processing
 
-* **Workshop link:** https://www.safaribooksonline.com/live-training/courses/applied-deep-learning-for-coders-with-apache-mxnet/0636920232841/
+* **Workshop link:** 
+* (UPCOMING) https://www.safaribooksonline.com/live-training/courses/applied-deep-learning-for-coders-with-apache-mxnet/0636920252047/
+* (COMPLETED) https://www.safaribooksonline.com/live-training/courses/applied-deep-learning-for-coders-with-apache-mxnet/0636920232841/
 
 # Lab Exercises
 
@@ -17,7 +19,7 @@
 
 ### Install Anaconda and Setup Conda Environment
 
-1. Install Anaconda - https://docs.continuum.io/anaconda/install/mac-os.html 
+1. Install Anaconda - https://docs.continuum.io/anaconda/install/mac-os.html OR https://docs.continuum.io/anaconda/install/linux/
 2. Set up Conda Environment for MXNet development
 
 Execute the below commands for the first time, when you are setting up your machine:
